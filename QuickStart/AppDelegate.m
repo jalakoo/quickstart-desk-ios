@@ -36,7 +36,7 @@
         }
     }
     
-    [SBDMain initWithApplicationId:@"52292344-3DA9-47ED-8BB1-587BB0D36F4D"]; 
+    [SBDMain initWithApplicationId:@"YOUR_SENDBIRD_APP_ID"];
     
     [SBDSKMain initializeDesk];
     NSLog(@"Version: %@", [SBDSKMain getSdkVersion]);

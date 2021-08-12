@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <AVKit/AVKit.h>
 #import <AVFoundation/AVFoundation.h>
-#import <SendBirdDesk/SendBirdDesk.h>
+#import <SendBirdDesk/SendBirdDesk-Swift.h>
 #import <UserNotifications/UserNotifications.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate, UNUserNotificationCenterDelegate>

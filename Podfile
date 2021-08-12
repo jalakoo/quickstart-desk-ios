@@ -7,7 +7,7 @@ target 'QuickStart' do
   inhibit_all_warnings!
 
   # Pods for SendBirdDeskSample
-  pod 'SendBirdDesk'
+  pod 'SendBirdSDK'
   pod 'HTMLKit', :inhibit_warnings => true
   pod 'TOCropViewController', :inhibit_warnings => true
   pod 'FLAnimatedImage', :inhibit_warnings => true
